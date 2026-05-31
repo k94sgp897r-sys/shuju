@@ -1,10 +1,10 @@
 [
   {
     "date": "2026-05-28",
-    "up": 1200,
-    "flat": 180,
-    "down": 4300,
-    "turnover": 3500,
+    "up": 3318,
+    "flat": 141,
+    "down": 2365,
+    "turnover": 29681,
     "limitUpStocks": ["粤电力A", "合锻智能"]
   },
   {
